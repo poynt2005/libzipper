@@ -1,0 +1,9 @@
+.vs
+x64
+bin
+obj
+Release
+Debug
+console
+dist
+node_modules
